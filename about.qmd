@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-About this site
+## About Me
+
+My name is **Omar Khatter**, and I graduated from *New Sidi Gaber Language School in Alexandria, Egypt*.
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
